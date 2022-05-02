@@ -1,4 +1,3 @@
-import imp
 import netifaces
 import requests
 from os import environ
